@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>ICO/sound.ico</file>
+    </qresource>
+</RCC>
